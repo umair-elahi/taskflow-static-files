@@ -183,8 +183,6 @@ SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @angular/material/dialog
 
-@angular/material/menu
-
 @angular/cdk
 MIT
 The MIT License
@@ -423,6 +421,8 @@ MIT
 
 @ngx-formly/bootstrap/addons
 
+@angular/material/icon
+
 @angular/material/radio
 
 @angular/material/form-field
@@ -431,12 +431,12 @@ MIT
 
 @angular/material/stepper
 
+@angular/material/menu
+
 @ngx-formly/bootstrap
 MIT
 
 @angular/material/expansion
-
-@angular/material/icon
 
 tslib
 0BSD
@@ -468,8 +468,6 @@ MIT
 @angular/animations
 MIT
 
-@angular/material/progress-bar
-
 pdfmake
 MIT
 The MIT License (MIT)
@@ -497,6 +495,8 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 @angular/router
 MIT
+
+@angular/material/progress-bar
 
 zone.js
 MIT
@@ -528,5 +528,3 @@ https://www.highcharts.com/license
 
 angular-highcharts
 MIT
-
-@angular/material/button
