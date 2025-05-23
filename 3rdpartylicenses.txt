@@ -438,6 +438,9 @@ MIT
 
 @angular/material/expansion
 
+@angular/platform-browser
+MIT
+
 tslib
 0BSD
 Copyright (c) Microsoft Corporation.
@@ -456,13 +459,10 @@ PERFORMANCE OF THIS SOFTWARE.
 @angular/core
 MIT
 
-@angular/forms
-MIT
-
-@angular/platform-browser
-MIT
-
 @angular/common
+MIT
+
+@angular/forms
 MIT
 
 @angular/animations
